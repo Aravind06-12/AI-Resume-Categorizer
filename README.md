@@ -23,7 +23,7 @@ An **AI-powered Resume Categorization System** that automatically predicts the j
 | Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
 | Visualization | Matplotlib, Seaborn |
 | Interface | Gradio |
-| Environment | Google Colab / Jupyter Notebook |
+| Environment | Google Colab |
 
 ---
 
@@ -32,4 +32,3 @@ An **AI-powered Resume Categorization System** that automatically predicts the j
 The project uses the `UpdatedResumeDataSet.csv` file, which contains two columns:
 - **Resume** → Resume text  
 - **Category** → Job role / domain label
-- 
